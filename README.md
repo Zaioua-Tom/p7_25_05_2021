@@ -1,11 +1,23 @@
-# p7_25_05_2021
-Création d'un réseau social d'entreprise
+7ème projet Openclassrooms "Création d'un réseau social d'entreprise"
+
+Le projet consiste à construire un réseau social interne pour les employés de Groupomania.
+
 
 La stack technique utilisée pour ce projet:
 
 VueJs + vuex + vuetify
 NodeJs + express + sequelize
 Mysql
+
+Compétences acquises :
+
+-Personnaliser le contenu envoyé à un client web
+
+-Gérer un stockage de données à l'aide de SQL
+
+-Implémenter un stockage de données sécurisé en utilisant SQL
+
+-Authentifier un utilisateur et maintenir sa session
 ******************************************************
 Frontend
 Ouvrir le dossier Frontend dans le terminal de votre éditeur puis exécuter la commande:
@@ -43,3 +55,5 @@ un statut
 un statut + un lien (gifs ok, pas de vidéos youtube)
 un statut + une image Ces publications peuvent être likées, commentées, modifiées, supprimées. 
 Le modérateur peut les supprimer.
+
+ 
